@@ -40,3 +40,9 @@ The accuracy for the model is **0.9592467043314501** , thus it is rather good to
   <img src= "https://github.com/jedijm/Land-Cover-Classification-with-Random-Forest-in-Google-Earth-Engine/blob/main/asset/classification.png"> <br>
 Fig 3. Land Cover Classification
 </p>
+
+**LEGEND**
+Blue : Water
+Green : Vegetation
+Grey : Building
+Orange : Open Land
