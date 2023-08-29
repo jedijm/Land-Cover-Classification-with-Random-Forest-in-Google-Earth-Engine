@@ -51,3 +51,7 @@ Orange : Open Land
 ## Conclusion & Recommendation
 1. The Random Forest model is good enough to identify each category but it can be improved with more sample data and groundtruth data.
 2. The data preprocessing is not perfectly done because of the imbalance data sample and still include cloud cover.
+
+## GEE Code Link
+Please refer to this link to see the code in Google Earth Engine:
+https://code.earthengine.google.com/a62fa822265841499a215420f972d029 
