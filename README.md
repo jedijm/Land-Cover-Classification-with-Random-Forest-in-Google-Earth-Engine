@@ -47,3 +47,7 @@ Blue : Water <br>
 Green : Vegetation <br>
 Grey : Building <br>
 Orange : Open Land 
+
+## Conclusion & Recommendation
+1. The Random Forest model is good enough to identify each category but it can be improved with more sample data and groundtruth data.
+2. The data preprocessing is not perfectly done because of the imbalance data sample and still include cloud cover.
