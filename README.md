@@ -42,7 +42,7 @@ Fig 3. Land Cover Classification
 </p>
 
 **LEGEND**
-Blue : Water
-Green : Vegetation
-Grey : Building
-Orange : Open Land
+Blue : Water <br>
+Green : Vegetation <br>
+Grey : Building <br>
+Orange : Open Land 
