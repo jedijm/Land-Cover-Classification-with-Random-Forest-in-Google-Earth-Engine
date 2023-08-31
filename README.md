@@ -33,7 +33,7 @@ Fig 2. Random Forest Model
 </p>
 Train the model with training data to see the accuracy.
 
-The accuracy for the model is **0.9592467043314501** , thus it is rather good to continue with test data.
+The accuracy for the model is **0.9603209238309444** , thus it is rather good to continue with test data.
 
 ## Classification Result
 <p align="center">
@@ -53,5 +53,5 @@ Orange : Open Land
 2. The data preprocessing is not perfectly done because of the imbalance data sample and still include cloud cover.
 
 ## GEE Code Link
-Please refer to this link to see the code in Google Earth Engine:
-https://code.earthengine.google.com/a62fa822265841499a215420f972d029 
+Please refer to this link to see the code in Google Earth Engine: 
+https://code.earthengine.google.com/a60835a61987bcea62709391258da36f
