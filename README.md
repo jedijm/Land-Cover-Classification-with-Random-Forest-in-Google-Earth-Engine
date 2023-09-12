@@ -8,11 +8,11 @@ Tools:
 **Google Earth Engine**
 
 Area of Interest (AOI):
-**Palembang**
+**Palembang, South Sumatera, Indonesia**
 
 Bands Used:
 `B2`, `B3`, `B4`, `B8`
-Additional Bands: `NDVI` & `SR`.
+Additional Bands: `NDVI`,`SR`, & `SAVI`.
 
 ## Import Sentinel-2 Data
 <p align="center">
@@ -33,7 +33,7 @@ Fig 2. Random Forest Model
 </p>
 Train the model with training data to see the accuracy.
 
-The accuracy for the model is **0.9603209238309444** , thus it is rather good to continue with test data.
+The accuracy for the model is **0.9617555696583052** , thus it is rather good to continue with test data.
 
 ## Classification Result
 <p align="center">
@@ -50,8 +50,8 @@ Orange : Open Land
 
 ## Conclusion & Recommendation
 1. The Random Forest model is good enough to identify each category but it can be improved with more sample data and groundtruth data.
-2. The data preprocessing is not perfectly done because of the imbalance data sample and still include cloud cover.
+2. The data preprocessing is not perfectly done because of the imbalance data sample.
 
 ## GEE Code Link
 Please refer to this link to see the code in Google Earth Engine: 
-https://code.earthengine.google.com/a60835a61987bcea62709391258da36f
+https://code.earthengine.google.com/5722257af141cf5ffc3f1417f841a94c 
